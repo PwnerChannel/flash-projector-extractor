@@ -11,4 +11,4 @@ Standard Flash Projectors bundle the Flash Player runtime and your `.swf` movie 
 ## Usage
 
 1. Download `extract.py` and drop it into the folder containing your Flash Projector `.exe` files.
-2. Open a terminal in that folder and run:
+2. Open a terminal in that folder and run: `python extract.py` or `python3 extract.py` on Linux and macOS.
